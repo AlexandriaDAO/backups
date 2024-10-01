@@ -1,0 +1,221 @@
+(
+  vec {
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+  },
+)
+(
+  vec {
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+  },
+)
+(
+  vec {
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+  },
+)
+(
+  vec {
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+  },
+)
+(
+  vec {
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+  },
+)
+(
+  vec {
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+  },
+)
+(
+  vec {
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+    opt vec {
+      record { "icrc7:metadata:uri:transactionId"; variant { Text = "" } };
+    };
+  },
+)
+(vec {})
+(vec {})
+(vec {})
+(vec {})
