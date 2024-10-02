@@ -10,7 +10,7 @@
 NETWORK="local"
 CANISTER_ID="fjqb7-6qaaa-aaaak-qc7gq-cai"
 BATCH_SIZE=10
-OUTPUT_FILE="token_collection_backup.txt"
+OUTPUT_FILE="combined_output.txt"
 
 # Function to run dfx command
 run_dfx() {
@@ -41,8 +41,10 @@ process_tokens() {
         echo "$tokens_response" | grep -E '[0-9_]+ : nat;' | sed -E 's/^[[:space:]]*([0-9_]+) : nat;$/\1/' |
         while read -r token_id; do
             echo "Token ID: $token_id" >> "$OUTPUT_FILE"
-            run_dfx "icrc7_owner_of" "(vec {$token_id;})" >> "$OUTPUT_FILE"
-            run_dfx "icrc7_token_metadata" "(vec {$token_id;})" >> "$OUTPUT_FILE"
+            owner=$(run_dfx "icrc7_owner_of" "(vec {$token_id;})" | grep -oP 'owner = principal "\K[^"]+')
+            echo "Owner: $owner" >> "$OUTPUT_FILE"
+            metadata=$(run_dfx "icrc7_token_metadata" "(vec {$token_id;})" | grep -oP '(?<=\{)[^}]+(?=\})')
+            echo "Metadata: $metadata" >> "$OUTPUT_FILE"
             echo "---" >> "$OUTPUT_FILE"
             ((total_processed++))
         done
