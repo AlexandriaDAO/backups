@@ -7,7 +7,7 @@
 #!/bin/bash
 
 # Set variables for your main project
-NETWORK="local"
+NETWORK="ic"
 CANISTER_ID="fjqb7-6qaaa-aaaak-qc7gq-cai"
 BATCH_SIZE=10
 OUTPUT_FILE="combined_output.txt"
