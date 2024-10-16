@@ -1,0 +1,80 @@
+[
+  {
+    "id": "0",
+    "timestamp": "2024-10-15T21:44:41.781557+00:00",
+    "operation": "mint",
+    "amount": "3.50000000 ALEX",
+    "to": "0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502"
+  },
+  {
+    "id": "1",
+    "timestamp": "2024-10-15T21:44:46.804231+00:00",
+    "operation": "mint",
+    "amount": "3.50000000 ALEX",
+    "to": "0cb26cd838db3315539976e00832e0306475da629313421372d5928302"
+  },
+  {
+    "id": "2",
+    "timestamp": "2024-10-15T21:44:53.975514+00:00",
+    "operation": "mint",
+    "amount": "3.50000000 ALEX",
+    "to": "cb2bd69c14bba1cf7c1c5aabcdb64af542203744e2ea101195cf348c02"
+  },
+  {
+    "id": "3",
+    "timestamp": "2024-10-15T21:45:22.611222+00:00",
+    "operation": "approve",
+    "amount": "3.49999000 ALEX",
+    "from": "0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502",
+    "spender": "000000000170480a0101",
+    "fee": "0.00001000 ALEX"
+  },
+  {
+    "id": "4",
+    "timestamp": "2024-10-15T21:45:31.130033+00:00",
+    "operation": "xfer",
+    "amount": "3.49998000 ALEX",
+    "to": "000000000170480a0101",
+    "from": "0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502",
+    "spender": "000000000170480a0101"
+  },
+  {
+    "id": "5",
+    "timestamp": "2024-10-16T01:13:02.154763+00:00",
+    "operation": "mint",
+    "amount": "350.00000000 ALEX",
+    "to": "0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502"
+  },
+  {
+    "id": "6",
+    "timestamp": "2024-10-16T01:13:07.141859+00:00",
+    "operation": "mint",
+    "amount": "350.00000000 ALEX",
+    "to": "0cb26cd838db3315539976e00832e0306475da629313421372d5928302"
+  },
+  {
+    "id": "7",
+    "timestamp": "2024-10-16T01:13:12.029364+00:00",
+    "operation": "mint",
+    "amount": "350.00000000 ALEX",
+    "to": "cb2bd69c14bba1cf7c1c5aabcdb64af542203744e2ea101195cf348c02"
+  },
+  {
+    "id": "8",
+    "timestamp": "2024-10-16T01:20:40.524033+00:00",
+    "operation": "approve",
+    "amount": "349.99999000 ALEX",
+    "from": "0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502",
+    "spender": "000000000170480a0101",
+    "fee": "0.00001000 ALEX"
+  },
+  {
+    "id": "9",
+    "timestamp": "2024-10-16T01:20:47.509546+00:00",
+    "operation": "xfer",
+    "amount": "349.99998000 ALEX",
+    "to": "000000000170480a0101",
+    "from": "0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502",
+    "spender": "000000000170480a0101"
+  }
+]
