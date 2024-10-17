@@ -18,10 +18,6 @@ else
     TOTAL_SUPPLY_ALEX=$ALEX_TOTAL_SUPPLY_NUMERIC
 fi
 
-# Pass the value to the Python script
-python3 backup_tokenomics.py "$TOTAL_SUPPLY_ALEX"
-
-
 ICP_SWAP_CANISTER_ID="5qx27-tyaaa-aaaal-qjafa-cai"
 LEDGER_CANISTER_ID="ryjl3-tyaaa-aaaaa-aaaba-cai"
 
@@ -35,4 +31,5 @@ else
     ICP_SWAP_BALANCE=$ICP_SWAP_BALANCE_NUMERIC
 fi
 
-python3 backup_stakes.py "$ICP_SWAP_BALANCE"
+# Call the Python script
+python3 backup.py "$TOTAL_SUPPLY_ALEX" "$ICP_SWAP_BALANCE"

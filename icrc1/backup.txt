@@ -1,0 +1,10 @@
+Tokenomics:
+Total ALEX supply: 12404 ALEX
+LBRY burned: 827 LBRY
+Current block reward: 50000 (represents 5.0000 ALEX)
+
+ICP Swap:
+Total staked: 4070.99890000
+ICP available: 12
+Stakes:
+  0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502: 4070.99890000
