@@ -1,0 +1,50 @@
+{
+  "ALEX": {
+    "ic": "7hcrm-4iaaa-aaaak-akuka-cai"
+  },
+  "LBRY": {
+    "ic": "hdtfn-naaaa-aaaam-aciva-cai"
+  },
+  "alex_backend": {
+    "ic": "xj2l7-vyaaa-aaaap-abl4a-cai"
+  },
+  "alex_frontend": {
+    "ic": "xo3nl-yaaaa-aaaap-abl4q-cai"
+  },
+  "alex_librarian": {
+    "ic": "rby3s-dqaaa-aaaak-qizqa-cai"
+  },
+  "alex_wallet": {
+    "ic": "ju4sh-3yaaa-aaaap-ahapa-cai"
+  },
+  "bookmarks": {
+    "ic": "sklez-7aaaa-aaaan-qlrva-cai"
+  },
+  "icp_ledger_canister": {
+    "ic": "ryjl3-tyaaa-aaaaa-aaaba-cai"
+  },
+  "icp_swap": {
+    "ic": "5qx27-tyaaa-aaaal-qjafa-cai"
+  },
+  "icrc7": {
+    "ic": "fjqb7-6qaaa-aaaak-qc7gq-cai"
+  },
+  "internet_identity": {
+    "ic": "rdmx6-jaaaa-aaaaa-aaadq-cai"
+  },
+  "nft_manager": {
+    "ic": "forhl-tiaaa-aaaak-qc7ga-cai"
+  },
+  "system_api": {
+    "ic": "xhfe4-aqaaa-aaaak-akv4q-cai"
+  },
+  "tokenomics": {
+    "ic": "uxyan-oyaaa-aaaap-qhezq-cai"
+  },
+  "vetkd": {
+    "ic": "fzemm-saaaa-aaaan-qlsla-cai"
+  },
+  "xrc": {
+    "ic": "uf6dk-hyaaa-aaaaq-qaaaq-cai"
+  }
+}

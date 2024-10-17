@@ -1,0 +1,7 @@
+{
+  "total_staked": "4070.99890000",
+  "icp_available": "547",
+  "stakes": {
+    "0bd7fbb12a953fb4ecf44e79866fc2a781267b2c33258a905c2e51b502": "4070.99890000"
+  }
+}

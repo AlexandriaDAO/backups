@@ -1,0 +1,3 @@
+Total ALEX supply: 12404 ALEX
+LBRY burned: 827 LBRY
+Current block reward: 50000 (represents 5.0000 ALEX)
