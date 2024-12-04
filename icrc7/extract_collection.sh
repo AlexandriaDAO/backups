@@ -8,7 +8,7 @@
 
 # Set variables for your main project
 NETWORK="ic"
-CANISTER_ID="fjqb7-6qaaa-aaaak-qc7gq-cai"
+CANISTER_ID="53ewn-qqaaa-aaaap-qkmqq-cai"
 BATCH_SIZE=10
 OUTPUT_FILE="combined_output.txt"
 
