@@ -3,7 +3,9 @@
 set -e
 
 # ALEX Canisterid
-ALEX_CANISTER_ID="7hcrm-4iaaa-aaaak-akuka-cai"
+ALEX_CANISTER_ID="ysy5f-2qaaa-aaaap-qkmmq-cai"
+ICP_SWAP_CANISTER_ID="54fqz-5iaaa-aaaap-qkmqa-cai"
+LEDGER_CANISTER_ID="ryjl3-tyaaa-aaaaa-aaaba-cai"
 
 # Get the total supply of ALEX and save it to a variable
 ALEX_TOTAL_SUPPLY=$(dfx canister call "$ALEX_CANISTER_ID" icrc1_total_supply --network ic)
@@ -18,9 +20,7 @@ else
     TOTAL_SUPPLY_ALEX=$ALEX_TOTAL_SUPPLY_NUMERIC
 fi
 
-ICP_SWAP_CANISTER_ID="5qx27-tyaaa-aaaal-qjafa-cai"
-LEDGER_CANISTER_ID="ryjl3-tyaaa-aaaaa-aaaba-cai"
-
+# Get ICP balance
 ICP_SWAP_BALANCE=$(dfx canister call "$LEDGER_CANISTER_ID" icrc1_balance_of "(record {owner = principal \"$ICP_SWAP_CANISTER_ID\";})" --network ic)
 
 ICP_SWAP_BALANCE_NUMERIC=$(echo "$ICP_SWAP_BALANCE" | grep -oP '\(\K[0-9_]+(?=\s*:)' | tr -d '_')
@@ -31,5 +31,14 @@ else
     ICP_SWAP_BALANCE=$ICP_SWAP_BALANCE_NUMERIC
 fi
 
-# Call the Python script
-python3 backup.py "$TOTAL_SUPPLY_ALEX" "$ICP_SWAP_BALANCE"
+# Get all stakes
+STAKES_DATA=$(dfx canister call "$ICP_SWAP_CANISTER_ID" get_all_stakes --network ic)
+
+# Save stakes data to a temporary file
+echo "$STAKES_DATA" > icrc1/temp_stakes.txt
+
+# Call the Python script with the stakes file
+python3 icrc1/backup.py "$TOTAL_SUPPLY_ALEX" "$ICP_SWAP_BALANCE" "icrc1/temp_stakes.txt"
+
+# Clean up temporary file
+rm icrc1/temp_stakes.txt

@@ -2,6 +2,7 @@ import json
 import os
 import sys
 from decimal import Decimal
+import re
 
 # Constants from your setup
 LBRY_THRESHOLDS = [
@@ -70,9 +71,45 @@ def calculate_stakes(transactions):
             stakes[user] = stakes.get(user, Decimal('0')) - amount
     return stakes
 
+def parse_stakes_file(stakes_file):
+    try:
+        with open(stakes_file, 'r') as f:
+            content = f.read()
+        
+        # Parse the stakes data using regex
+        stakes = {}
+        # Updated pattern to match Candid format with underscores and explicit type annotations
+        pattern = r'principal\s+"([^"]+)".*?time\s+=\s+(\d+(?:_\d+)*)\s*:\s*nat64;\s*reward_icp\s+=\s+(\d+(?:_\d+)*)\s*:\s*nat64;\s*amount\s+=\s+(\d+(?:_\d+)*)\s*:\s*nat64'
+        
+        matches = re.finditer(pattern, content)
+        for match in matches:
+            principal = match.group(1)
+            time = int(match.group(2).replace('_', ''))
+            reward_icp = int(match.group(3).replace('_', ''))
+            amount = int(match.group(4).replace('_', ''))
+            # Convert amount to ALEX (divide by 10^8)
+            amount_alex = Decimal(amount) / Decimal('100000000')
+            stakes[principal] = {
+                'amount': amount_alex,
+                'reward_icp': reward_icp,
+                'time': time
+            }
+        
+        if not stakes:
+            print("Warning: No stakes were parsed from the file. Content:")
+            print(content[:500])  # Print first 500 chars for debugging
+            
+        return stakes
+    except Exception as e:
+        print(f"Error parsing stakes file: {e}")
+        print(f"File contents:")
+        with open(stakes_file, 'r') as f:
+            print(f.read()[:500])  # Print first 500 chars for debugging
+        sys.exit(1)
+
 def write_backup(total_alex_supply, icp_available, stakes, output_file):
     lbry_burned, current_block_reward = calculate_tokenomics(total_alex_supply)
-    total_staked = sum(stakes.values())
+    total_staked = sum(stake['amount'] for stake in stakes.values())
 
     try:
         with open(output_file, 'w') as f:
@@ -82,11 +119,13 @@ def write_backup(total_alex_supply, icp_available, stakes, output_file):
             f.write(f"Current block reward: {current_block_reward} (represents {current_block_reward/10000:.4f} ALEX)\n\n")
             
             f.write("ICP Swap:\n")
-            f.write(f"Total staked: {total_staked}\n")
-            f.write(f"ICP available: {icp_available}\n")
-            f.write("Stakes:\n")
-            for user, amount in stakes.items():
-                f.write(f"  {user}: {amount}\n")
+            f.write(f"Total staked: {total_staked:.8f} ALEX\n")
+            f.write(f"ICP available: {icp_available} ICP\n")
+            f.write("\nStakes:\n")
+            for principal, data in stakes.items():
+                f.write(f"  {principal}:\n")
+                f.write(f"    Amount: {data['amount']:.8f} ALEX\n")
+                f.write(f"    Reward ICP: {data['reward_icp']}\n")
 
         print(f"Backup saved to {output_file}")
     except IOError as e:
@@ -94,24 +133,22 @@ def write_backup(total_alex_supply, icp_available, stakes, output_file):
         sys.exit(1)
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: python3 backup.py <total_alex_supply> <icp_available>")
+    if len(sys.argv) != 4:
+        print("Usage: python3 backup.py <total_alex_supply> <icp_available> <stakes_file>")
         sys.exit(1)
 
     try:
         total_alex_supply = int(sys.argv[1])
         icp_available = Decimal(sys.argv[2])
+        stakes_file = sys.argv[3]
     except ValueError:
         print(f"Error: Invalid input. Expected integers for total_alex_supply and icp_available.")
         sys.exit(1)
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    input_file = os.path.join(script_dir, "./get_data/processed_alex_blocks.json")
     output_file = os.path.join(script_dir, "backup.txt")
 
-    processed_blocks = read_processed_blocks(input_file)
-    cleaned_transactions = clean_transactions(processed_blocks)
-    stakes = calculate_stakes(cleaned_transactions)
+    stakes = parse_stakes_file(stakes_file)
     write_backup(total_alex_supply, icp_available, stakes, output_file)
 
 if __name__ == "__main__":
