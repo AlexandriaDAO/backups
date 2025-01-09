@@ -34,11 +34,12 @@ fi
 # Get all stakes
 STAKES_DATA=$(dfx canister call "$ICP_SWAP_CANISTER_ID" get_all_stakes --network ic)
 
-# Save stakes data to a temporary file
-echo "$STAKES_DATA" > icrc1/temp_stakes.txt
+# Save stakes data to a temporary file in the current directory
+TEMP_FILE="./temp_stakes.txt"
+echo "$STAKES_DATA" > "$TEMP_FILE"
 
 # Call the Python script with the stakes file
-python3 icrc1/backup.py "$TOTAL_SUPPLY_ALEX" "$ICP_SWAP_BALANCE" "icrc1/temp_stakes.txt"
+python3 backup.py "$TOTAL_SUPPLY_ALEX" "$ICP_SWAP_BALANCE" "$TEMP_FILE"
 
 # Clean up temporary file
-rm icrc1/temp_stakes.txt
+rm "$TEMP_FILE"
