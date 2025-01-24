@@ -1,11 +1,11 @@
 Tokenomics:
-Total ALEX supply: 1831974 ALEX
-LBRY burned: 17494939 LBRY
+Total ALEX supply: 1833240 ALEX
+LBRY burned: 17581061 LBRY
 Current block reward: 49 (represents 0.0049 ALEX)
 
 ICP Swap:
-Total staked: 1534048.17200000 ALEX
-ICP available: 2554 ICP
+Total staked: 1529335.20800000 ALEX
+ICP available: 2250 ICP
 
 Stakes:
   ykpmy-qacsz-lpsio-hiait-3ksrm-ic6tr-gtaf6-xaihl-5zgos-rw7od-dqe:
@@ -13,25 +13,25 @@ Stakes:
     Reward ICP: 142681
   xk4pi-3ac5t-kmxid-fkgzp-oovdh-jgoxl-qzxtj-rlgms-xdl5f-u4ejk-nqe:
     Amount: 4842.16610000 ALEX
-    Reward ICP: 66144259
+    Reward ICP: 70328919
   h5phy-vqecj-p7lma-ayve3-ddp55-v4mdb-ldw7h-4nfrq-34fnr-6kukp-eqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 3198752
   r2lxz-6ae6o-vt76j-zrazt-6peku-lm7fq-nrpxg-5icuk-oyrz6-zkaha-gae:
     Amount: 68155.12950000 ALEX
-    Reward ICP: 1020717350
+    Reward ICP: 2531036791
   hvbhi-gifb4-pux7a-u7fzd-4vm4l-k6fsh-tfl5v-sambv-z76ha-x4ai5-5qe:
     Amount: 530.95140000 ALEX
-    Reward ICP: 52726245
+    Reward ICP: 64492131
   wl343-jqfry-23opu-lonmg-iispf-z5xig-lexvq-ebv26-uwcwa-2mvhy-rqe:
     Amount: 86.93460000 ALEX
-    Reward ICP: 30136964
+    Reward ICP: 32063425
   z5nxl-haijy-sbucc-i2ern-xj4qq-35qcw-xjnzy-i4pnz-ohqbb-ta5s4-7ae:
     Amount: 7.04030000 ALEX
-    Reward ICP: 279182
+    Reward ICP: 435183
   pouis-lijjq-6v5vb-bxab2-7togy-whkmq-smvhj-aoxgp-o5s7l-qnf3l-2qe:
-    Amount: 992.46010000 ALEX
-    Reward ICP: 25795711
+    Amount: 1000.92220000 ALEX
+    Reward ICP: 12718187
   p4elq-bij7e-sxudh-4d4yn-grbym-fvqb3-fc6qo-bcw5v-ywrrb-nescp-lqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
@@ -40,10 +40,10 @@ Stakes:
     Reward ICP: 2484183
   natns-ramsn-vlwsl-zeysw-4euz7-m5j53-bci2u-cclkg-2dqur-elpkk-hqe:
     Amount: 49.65670000 ALEX
-    Reward ICP: 28067539
+    Reward ICP: 29167922
   lx4ma-4aoga-ror7t-oh23n-dhkzh-cmlhq-yqbcp-qkupm-n7l7n-dbnrf-2qe:
     Amount: 20.12870000 ALEX
-    Reward ICP: 712214
+    Reward ICP: 1158254
   4vui2-wirdj-jhlfe-hkwrv-fzile-3ypud-d4tsl-vqwwu-xwtde-shjxw-nqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
@@ -52,142 +52,145 @@ Stakes:
     Reward ICP: 0
   pti36-eavn3-nwmxl-z6jh3-2ngmi-xnwq2-o3xxh-xjisp-hxtde-zu2wa-eqe:
     Amount: 4.89980000 ALEX
-    Reward ICP: 2305511
+    Reward ICP: 2414078
   tnkj7-2av4r-taqbu-xbo25-dhjyk-txupw-qxxcf-fcfpd-ido67-5whex-2qe:
     Amount: 270.07560000 ALEX
-    Reward ICP: 28025621
+    Reward ICP: 34010489
   rwbpm-uyxq2-u4fck-armir-dsazz-x5m3c-aemly-kh4hq-bbmxn-yea4r-tqe:
     Amount: 646.73250000 ALEX
-    Reward ICP: 76096120
+    Reward ICP: 90427718
   hirrd-2ayap-qya4d-twsfw-urzl5-cswck-pqa4w-fpnxy-l4el3-7kxqn-qae:
     Amount: 4472.93100000 ALEX
-    Reward ICP: 113570125
+    Reward ICP: 212690380
   bstm6-4i2kg-lypw5-2nj4s-tstn7-dipy5-fyqxw-eoix5-7j3la-7qxmz-6ae:
     Amount: 0.00000000 ALEX
     Reward ICP: 45596
+  lwq7w-qi2sc-tnzra-yvwwf-r3ciz-mi3wo-stthj-dyvsf-5ze2c-iudx2-3ae:
+    Amount: 1057.37470000 ALEX
+    Reward ICP: 8187500
   2nih7-oi4an-cect4-rzgy2-j2sn5-oint6-u3ckp-c44cp-dspkh-hybgh-tqe:
     Amount: 1586.17710000 ALEX
-    Reward ICP: 76049589
+    Reward ICP: 111199302
   dkhu3-ya4w3-kfmto-xkex5-43byw-bv7qj-3h4bn-4fgf6-fsu6y-aeijv-cqe:
     Amount: 149.99990000 ALEX
-    Reward ICP: 4213878
+    Reward ICP: 2041621
   obcmj-xq5sk-maswb-dhdrs-qwe7s-3axbi-2xpso-3f7os-mkbvj-62pau-cqe:
     Amount: 3281.29330000 ALEX
-    Reward ICP: 3295793
+    Reward ICP: 76009330
   gqlg5-vq6m2-wmagt-j7443-njggs-xetm6-mhv6i-te2ba-ohyj4-h7l6l-dqe:
     Amount: 694.03380000 ALEX
-    Reward ICP: 3733436
+    Reward ICP: 19113228
   xc6nh-bi67z-y6lq7-6im35-rak5x-4wym2-6nad7-g3m4e-h7lkh-hwbkn-6ae:
     Amount: 328.88070000 ALEX
-    Reward ICP: 8983573
+    Reward ICP: 16271569
   y4jrm-bjbhg-bxtm7-2t4de-eazxp-fubsu-pyy26-2rvd2-jcwfe-txmic-7ae:
     Amount: 188.37140000 ALEX
-    Reward ICP: 25265804
+    Reward ICP: 29440104
   bc5dy-yjbue-s4oga-yhuvs-4d3le-mnmaz-k3p4h-2b6jl-25mrl-sxmas-aqe:
     Amount: 19941.27110000 ALEX
-    Reward ICP: 9012457780
+    Reward ICP: 9454356855
   bpugj-ozcgk-vojtz-6ox7w-zc5s4-ylxg3-rvtm6-eowkm-weqlk-yhblr-jqe:
-    Amount: 239.53750000 ALEX
-    Reward ICP: 7492762
+    Amount: 495.80700000 ALEX
+    Reward ICP: 2831781
   2vzlz-brder-4yk63-anmay-rkumb-5veai-jryge-auukb-6ezpr-tin6w-cae:
     Amount: 957.56570000 ALEX
-    Reward ICP: 560032412
+    Reward ICP: 581252082
   tzdlz-nrepu-umexh-nzpte-oqldz-hof7k-hjzyo-ozg7e-p67d3-twv2y-uae:
-    Amount: 40421.40750000 ALEX
-    Reward ICP: 77180667
+    Amount: 40466.31570000 ALEX
+    Reward ICP: 32052118
   hggxc-vjety-iqr6c-dd3bx-dmeta-no35o-mckmf-e44aa-4dh25-7icjq-cqe:
-    Amount: 148.99520000 ALEX
-    Reward ICP: 412273
+    Amount: 171.21800000 ALEX
+    Reward ICP: 135616
   dgryo-rzfpp-mukmj-u6k5c-7rimq-h4lxn-5y4op-hqhnd-itoq2-qd2j5-wae:
     Amount: 1.00970000 ALEX
-    Reward ICP: 109236
+    Reward ICP: 131597
   x7zjs-vrf5x-xwuxx-wpjes-bvcwi-owxd7-ygd6w-wfjvo-tsnm5-uuzja-hae:
-    Amount: 8210.88870000 ALEX
-    Reward ICP: 22719838
+    Amount: 6210.88830000 ALEX
+    Reward ICP: 101724461
   547qj-zzggu-hcrz4-the5e-dlnvb-knsg5-eh4cd-q67rm-pk5r4-f3orw-pae:
     Amount: 9698.21470000 ALEX
-    Reward ICP: 5270624111
+    Reward ICP: 5485536791
   yshkh-urigw-n2o44-nh27v-63lw4-tsura-tgmsp-suuel-wjkaw-z7vmo-hae:
-    Amount: 41744.06690000 ALEX
-    Reward ICP: 772754849
+    Amount: 39000.06650000 ALEX
+    Reward ICP: 0
   4kn44-6rjpl-clyhr-jykms-h7h3p-cwyt2-kpoxh-smvfa-gkdxq-ay7nl-6qe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   zkegr-xzjzj-bwuo6-s52jr-kogr7-x6by3-rztj6-foy23-a6ozk-jy3x6-dqe:
-    Amount: 618.94180000 ALEX
-    Reward ICP: 86257774
+    Amount: 632.93580000 ALEX
+    Reward ICP: 99973528
   hztl6-eznoq-hjfm2-4ions-xlucw-cp6dd-4hadg-k24b5-mkh4q-73oll-dae:
     Amount: 15226.16550000 ALEX
-    Reward ICP: 4032546972
+    Reward ICP: 4369959186
   vd7yp-wznzj-76syc-fmyba-7xd7d-7xb5g-zhjl5-zwyh2-russb-t5wof-qqe:
     Amount: 386.93820000 ALEX
-    Reward ICP: 22942334
+    Reward ICP: 31516882
   uiwhs-mrph5-4mzj2-hzu6d-m5sne-mrdzr-refcb-7lehx-57wsj-gllps-2qe:
     Amount: 45001.63120000 ALEX
-    Reward ICP: 624208452
+    Reward ICP: 71733846
   xjrkz-kzwab-n35mh-2hbfc-mvbgt-olflt-hpher-72d4r-6av7g-6oij4-zqe:
     Amount: 29563.67940000 ALEX
-    Reward ICP: 389814793
+    Reward ICP: 95219807
   yur5a-kr4ld-d2hcp-b6kei-jvi6w-uevyv-2eusr-j4meu-7mqq7-kr4mq-mqe:
     Amount: 5389.05710000 ALEX
-    Reward ICP: 83815828
+    Reward ICP: 203237460
   kjpuc-pz47g-6veet-3yhuu-wgzb4-cqpug-k7s3t-63gxp-djouv-2ptyo-rqe:
     Amount: 129.67360000 ALEX
-    Reward ICP: 12286283
+    Reward ICP: 15159842
   cwmfq-mb5az-ulwun-q5glk-tdr6j-gkz4r-ji5sj-rvul4-oryg4-q6wrc-xae:
     Amount: 10351.75550000 ALEX
-    Reward ICP: 143089613
+    Reward ICP: 372484775
   4wnll-ar7xl-bfv3w-wjv26-zmzyd-eo3gs-toav7-z3o2f-h6ect-7xb6z-5qe:
-    Amount: 2169.29760000 ALEX
-    Reward ICP: 333310559
+    Amount: 2365.10310000 ALEX
+    Reward ICP: 381882994
   dl6q4-acahg-ipetk-4q57y-t4bls-os3n7-heaou-43abf-xx2jl-hf2gf-yae:
-    Amount: 7018.60020000 ALEX
-    Reward ICP: 19420731
+    Amount: 7293.89540000 ALEX
+    Reward ICP: 29498038
   pm5uz-2saos-o4uix-vvyvg-pvygj-tputx-rhbtf-7x6ge-bl6x6-gctq4-vqe:
     Amount: 1160.64230000 ALEX
-    Reward ICP: 408413761
+    Reward ICP: 434133611
   we3qi-72b2h-qrbef-bkekx-3icrr-xgxgx-ais4f-tiwft-pwnqc-i3kqo-qqe:
     Amount: 235.78350000 ALEX
-    Reward ICP: 139066441
+    Reward ICP: 144291396
   ldgdi-tchd7-j4kny-iljf7-sdapd-qduv3-ehtvd-nsmiw-6mr7d-skoyg-cae:
-    Amount: 1472.37190000 ALEX
-    Reward ICP: 488150597
+    Amount: 1502.64380000 ALEX
+    Reward ICP: 520925853
   crij7-scixs-aqhkd-3se43-kaler-nrhgw-hqfq7-z34km-4awy5-h7afi-7qe:
     Amount: 227.21180000 ALEX
-    Reward ICP: 56927217
+    Reward ICP: 61962225
   esxe4-csj2q-ceqk3-uucts-2uvwq-kt6nw-qowmx-gxztf-w6fey-36uhu-aqe:
     Amount: 8325.52950000 ALEX
-    Reward ICP: 294590108
+    Reward ICP: 479084045
   wnfyr-cckbi-nvrt4-jrahv-egkqm-fyc2v-3haz5-3offb-vgd2h-4wr4d-xae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   n3br6-rkkdh-5jcq7-pbwsx-yeqm7-jbzqi-54j4d-3isk3-js4sp-vqct5-rae:
     Amount: 98757.50020000 ALEX
-    Reward ICP: 2413964377
+    Reward ICP: 4602433158
   fki6j-kcozd-ylk2s-vkzns-hu3ez-qg6r5-wxqrx-somro-jhuu6-s4rys-oae:
     Amount: 58.67730000 ALEX
-    Reward ICP: 1835420
+    Reward ICP: 3135699
   rgf6g-icqnd-mbcgg-ltrzh-vreeq-7xt7v-za5ky-ygvmc-4e6s2-figjl-tqe:
-    Amount: 256.39470000 ALEX
-    Reward ICP: 11867634
+    Amount: 295.54020000 ALEX
+    Reward ICP: 17717895
   7j252-qctk3-qasf2-dmw2s-n674v-kjfst-niqcp-2yvu4-qeefd-zu4fm-2ae:
     Amount: 12228.96790000 ALEX
-    Reward ICP: 6198421020
+    Reward ICP: 6469415255
   p3v6s-cctw3-fh265-klt45-kcoie-knaxu-lfkqf-hqp6k-2k23v-oiz73-iae:
     Amount: 207.16610000 ALEX
-    Reward ICP: 30144678
+    Reward ICP: 34735469
   ex45b-gcv2p-tboxn-bjejv-wpxkd-vazdq-jxmqh-eyhsx-lcwoi-7zjl6-mae:
     Amount: 4.60090000 ALEX
-    Reward ICP: 8784
+    Reward ICP: 110727
   qkfvc-asv3d-zqvik-y7hgt-txslh-cstnp-zymx4-odfj4-a67dm-qqxm4-jqe:
     Amount: 1575.08740000 ALEX
-    Reward ICP: 12709191
+    Reward ICP: 47613157
   66q6d-mc4uv-4hfcl-urd3u-cityi-qabjc-evg5d-watgw-5o2pd-jvaib-cae:
     Amount: 92.34000000 ALEX
-    Reward ICP: 9481021
+    Reward ICP: 11527265
   jmrri-uk6nh-zq62l-547lt-ewdab-l64fz-zpsrc-d6y6l-zv3jr-n7mso-oqe:
     Amount: 598.65130000 ALEX
-    Reward ICP: 76410597
+    Reward ICP: 89676713
   oqrh2-qtahl-bjjgw-glmm5-vwahl-bvjhz-whfou-pyefc-bsl5b-awbo4-uqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 235359
@@ -198,14 +201,14 @@ Stakes:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   zr2oj-4teku-hauld-sta2r-2yd7v-einjp-covut-kty5k-uay52-menta-pqe:
-    Amount: 10009.00000000 ALEX
-    Reward ICP: 10053229
+    Amount: 3000.00000000 ALEX
+    Reward ICP: 9662511
   jnb6k-63evj-sfbvv-waqvs-4vx24-dvk4a-7cj27-tsbyp-tpq6v-qbgpf-yae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   ax6cb-s3eza-cjzjk-6gkpk-tag2e-5a5vj-7ix3u-6r7u6-wf5tw-s7zdi-lae:
     Amount: 1856.52790000 ALEX
-    Reward ICP: 5137081
+    Reward ICP: 9043993
   ttaoa-2dgoz-bspdg-odx4q-bjejm-vlcgy-mlot6-xd2xu-xkg52-zoosj-3ae:
     Amount: 0.00000000 ALEX
     Reward ICP: 146272
@@ -213,89 +216,95 @@ Stakes:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   tdzba-ydjns-745a7-c5jgy-dghly-b7peg-yaolt-enudk-3e7f3-fq62d-rqe:
-    Amount: 80000.47530000 ALEX
-    Reward ICP: 866517614
+    Amount: 76500.47490000 ALEX
+    Reward ICP: 0
   xrzcq-r3kwv-mjhhy-wtzpd-jzrk6-qd7ll-zb3sd-xzhwm-an2fd-xdy4t-cae:
     Amount: 30659.47010000 ALEX
-    Reward ICP: 1524548728
+    Reward ICP: 2203963375
   65ouy-jdmy2-ujae3-iv7uc-pzano-cgfnz-27lcm-44lyo-rsdg6-kevgr-qqe:
-    Amount: 27460.51630000 ALEX
-    Reward ICP: 508341628
+    Amount: 27465.12200000 ALEX
+    Reward ICP: 581481786
   lzfls-plm2l-cx6fj-roifv-g2h3z-zt472-gmfba-sorxu-5c7nq-s64rp-yqe:
     Amount: 70.29910000 ALEX
-    Reward ICP: 20901082
+    Reward ICP: 22458899
   nixig-flniw-flb7m-uvuxw-b62zk-mwxku-ozffc-arwb4-tyvjl-rp23u-oqe:
     Amount: 129895.36730000 ALEX
-    Reward ICP: 471275795
+    Reward ICP: 207056812
   5isco-flou4-zpema-evjlr-fvbtl-um5l4-mmjt7-ypu4g-gyrhb-dzpif-7qe:
     Amount: 808.70060000 ALEX
-    Reward ICP: 167284337
+    Reward ICP: 185205151
   7blr6-c3pxd-umhki-cmq3o-x3mqg-j72ra-zayiv-hxwfg-ryr23-6oq42-dqe:
-    Amount: 213.65310000 ALEX
-    Reward ICP: 9663555
+    Amount: 216.07840000 ALEX
+    Reward ICP: 4788288
   cyfyh-hdq6v-dy5ut-5xpbf-c6vtw-jodok-qsd4f-xgzgx-te7cj-qxrnv-5ae:
     Amount: 4712.53790000 ALEX
-    Reward ICP: 87237215
+    Reward ICP: 191667167
   3welh-mtsd5-bgotf-4vxrl-m43oa-dxkzz-35cky-powsl-axg2w-xc6dl-pqe:
     Amount: 712.79550000 ALEX
-    Reward ICP: 103718822
+    Reward ICP: 119514379
+  n2rr2-6lvjs-he225-v4o46-u4mfz-bif66-2jkr5-k7izh-h6fmt-nnzc4-dqe:
+    Amount: 377.96480000 ALEX
+    Reward ICP: 2478660
   2zf7e-ctv4z-lbpwc-an3f4-u53uo-wcam7-pur4v-2clio-s7isj-eehzy-mqe:
     Amount: 108710.74850000 ALEX
-    Reward ICP: 7675234211
+    Reward ICP: 10084267234
   kvasj-l3wzn-s3ntv-gdcao-zw35y-lkwjl-g5i6u-byqnp-7jei6-agtpx-bae:
     Amount: 3529.85440000 ALEX
-    Reward ICP: 337602916
+    Reward ICP: 415824569
   75c2w-w3zw3-k7k5o-ltchf-djmce-7qu62-xf4ge-43khb-o6kph-nza4t-wqe:
     Amount: 613.82620000 ALEX
-    Reward ICP: 0
+    Reward ICP: 2482439
   zubyz-yl2vo-ylmx5-eqhul-clm2l-un7hi-vssip-d4muq-wnkwb-tc5zd-mae:
     Amount: 0.00000000 ALEX
-    Reward ICP: 941378
+    Reward ICP: 0
   fch7y-zd3h7-avehq-frsss-dvhu5-wp6ji-47ofe-2ed7i-xfal3-t2els-6ae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   x3ymf-bd4iz-3zo4t-ikufz-ezvu4-27dof-5zaqn-76uik-fwy5a-ehs76-6ae:
     Amount: 16999.99990000 ALEX
-    Reward ICP: 17075122
+    Reward ICP: 13465174
   qh3fb-s34m4-7qlkp-cg55y-j2lj5-qpxlw-qsosa-m3ysd-hpfj3-pd7eg-cae:
     Amount: 1.00970000 ALEX
-    Reward ICP: 85830
+    Reward ICP: 108191
   r2jbq-peabn-z45su-grwb3-ncacd-hbtcu-vzic6-uifmk-3ndqj-7ztue-mae:
     Amount: 635.54580000 ALEX
-    Reward ICP: 253993233
+    Reward ICP: 268076935
   23ohn-t4cvg-alwer-wsrc2-3ajep-c7po5-z2hrv-ck7su-foddp-a5fdm-bqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 196409
   e7o5x-xecy5-kolc6-laztz-efmdn-v6ktd-5h56g-z55u3-zmu7y-xv3ac-jqe:
     Amount: 3468.12710000 ALEX
-    Reward ICP: 12593376
+    Reward ICP: 14025830
   edeki-yuer4-qn3sk-okwx3-nfb5j-vyc6x-klcuh-hteb7-t4wfw-bw566-7ae:
     Amount: 269.09760000 ALEX
-    Reward ICP: 117179576
+    Reward ICP: 123142774
   mmo5n-oefyu-fn56j-fo62j-u2kcv-famvo-2eyev-fse2d-c3zuf-qlzh4-uae:
-    Amount: 4609.98410000 ALEX
-    Reward ICP: 12755999
+    Amount: 1826.03060000 ALEX
+    Reward ICP: 8895425
   5yarh-m4gno-czfhy-5rhlx-xsedd-zxymm-jb5qc-vfxxc-cuilt-n7jqd-cae:
     Amount: 1602.80400000 ALEX
-    Reward ICP: 275449885
+    Reward ICP: 310968050
   5kaiw-kugpj-ldz5y-o4izz-aptxb-6u3jc-4pbsg-yvphr-i5x5z-7rhc4-4ae:
     Amount: 49.99980000 ALEX
-    Reward ICP: 32655396
+    Reward ICP: 33763379
   skgpp-z4g42-h3rcp-pmdbq-z32op-wrrvh-rjrq6-uqqok-wcymx-moc7j-tae:
     Amount: 387.77250000 ALEX
-    Reward ICP: 3128888
+    Reward ICP: 11721922
+  lk42o-yehjy-ijcas-sl3sb-hf277-kx2w6-qsjh5-4wvii-7pknn-dmbqb-oae:
+    Amount: 20.44270000 ALEX
+    Reward ICP: 52859
   cuk5i-7eksk-grcri-hsugn-auujp-rn66j-bb6bk-zkd2k-oh3nb-b76k3-iqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   yhjvg-54lm7-h3yjn-lgcis-efrrr-aaa6f-zc654-jaihi-65amy-xdepq-5qe:
     Amount: 2.44980000 ALEX
-    Reward ICP: 17548
+    Reward ICP: 71823
   o7okb-wmoas-sikvx-ingwl-55lbd-pfb5e-6mccm-iaoir-7pag2-obnnk-kqe:
     Amount: 30.99930000 ALEX
-    Reward ICP: 12732502
+    Reward ICP: 13419435
   xy6ba-aeqcq-e764m-p5mkl-wxoxz-q72r5-7ppnp-rdlaj-mnp3x-kzioe-yae:
     Amount: 5848.97220000 ALEX
-    Reward ICP: 152128260
+    Reward ICP: 281741625
   idzx2-c4tlf-ny56d-5gi3m-jada7-qfiiv-4s553-pq7fg-a74hb-n3nza-fae:
     Amount: 0.00000000 ALEX
     Reward ICP: 198609
@@ -304,10 +313,10 @@ Stakes:
     Reward ICP: 0
   xtj2l-n4upn-gugxo-5ljex-daew7-sih4s-cqfna-tk4ia-c3cc4-3a2xp-fqe:
     Amount: 697.08880000 ALEX
-    Reward ICP: 144196791
+    Reward ICP: 159644285
   cyjnt-wuusv-yc2zj-i2jnp-w3uua-z6hhf-nmswa-x3jml-vhggn-vx36c-2qe:
     Amount: 10046.16710000 ALEX
-    Reward ICP: 45212158
+    Reward ICP: 40628799
   tmikv-o4vil-ho7uz-yo36i-3entl-zcvam-jmcde-qgy7g-6n7i6-l7fsm-sae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
@@ -315,200 +324,209 @@ Stakes:
     Amount: 0.00000000 ALEX
     Reward ICP: 24871233
   luh6k-z4y4s-c34j4-vvmpo-oegvk-tgyqq-e4yp4-silzt-nzwzr-aiaqj-xae:
-    Amount: 5749.49510000 ALEX
-    Reward ICP: 2536316025
+    Amount: 7508.98190000 ALEX
+    Reward ICP: 57850825
   hlmbu-xmzcn-l526t-yyfet-xf2ix-hyo66-ter6l-pu2ad-6flhh-icaxp-iae:
     Amount: 64.36560000 ALEX
-    Reward ICP: 31124566
+    Reward ICP: 367619
   5tqjf-du54f-kores-e3xby-onept-57ygf-ago3h-wcxnp-vms4d-fn3sa-iae:
     Amount: 3672.82200000 ALEX
-    Reward ICP: 483112228
+    Reward ICP: 564502048
+  ojjvr-u46pd-qwpbw-yh27y-x577k-trvjo-qbofn-lbau3-3vejz-3qwm7-oae:
+    Amount: 25.48970000 ALEX
+    Reward ICP: 465614
   5yzbw-5m64i-qchem-u5bmr-t635y-skfbp-epfjb-ycjoo-u4gnd-uetcr-kqe:
     Amount: 43.80570000 ALEX
-    Reward ICP: 14106530
+    Reward ICP: 15077254
   tey7m-jm66l-ej4wd-exds4-bpdvn-vbcwj-rub64-wgbwi-caygv-ifwoi-qqe:
     Amount: 3751.50390000 ALEX
-    Reward ICP: 121144995
+    Reward ICP: 79425494
   4l4oa-j5aqi-qirjf-74jxh-rlgtp-wxgbh-rmztv-smyxh-qt2nq-roj2q-xqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   7kq53-u5bs2-oc7qh-63fvm-65iif-hko6l-7ssjt-3mhhs-ay6nf-6rmsu-5qe:
     Amount: 61619.01030000 ALEX
-    Reward ICP: 1202335333
+    Reward ICP: 2567814204
   tarxt-mvcwe-afvu3-iwbse-5vauu-iinfj-xmmfr-tcjx3-j3tmz-wojsv-gae:
-    Amount: 111.50380000 ALEX
-    Reward ICP: 42935656
+    Amount: 0.00000000 ALEX
+    Reward ICP: 0
   t7q64-j5eyy-nrbej-h3avi-cch7s-la6wl-xs432-uuqga-l5y4t-b26t4-oae:
-    Amount: 9348.18030000 ALEX
-    Reward ICP: 100686288
+    Amount: 9636.35530000 ALEX
+    Reward ICP: 93918630
   hnp6a-5fgtt-n6wqw-e3pnf-fa6hi-xem72-opfv5-fszaf-4dpxi-2oxuu-2qe:
     Amount: 27.41960000 ALEX
-    Reward ICP: 885428
+    Reward ICP: 1493036
   7h5v6-lnh34-eilgk-ejz66-lnfrf-jdnuh-uqcbx-wsbmz-7vamw-s5aoa-5ae:
     Amount: 59.11780000 ALEX
-    Reward ICP: 5230651
+    Reward ICP: 6540691
   vjzxx-vnicr-o3pc7-s7ksn-4zls3-74amh-tpyex-z7ow6-pgqne-xog5y-aqe:
     Amount: 519.99990000 ALEX
-    Reward ICP: 101650061
+    Reward ICP: 113173260
   mmuqx-dviru-sxm6o-fhcj3-df7vn-mr2oe-ga477-bocjs-fvmix-tgs3l-iqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   6wqqm-onjy2-wlxcy-tztqo-7ha7d-xg5cb-2iij4-nnell-xzbm3-yq555-qqe:
-    Amount: 18.01690000 ALEX
-    Reward ICP: 1063670
+    Amount: 283.36060000 ALEX
+    Reward ICP: 6821117
   e2mqm-f5kv2-wacvn-7sjl2-4wmrn-zumo5-l4g2v-ac752-2vgow-tnd7c-qae:
     Amount: 76220.53880000 ALEX
-    Reward ICP: 2857889397
+    Reward ICP: 4546938521
   b6v75-rfkyu-fgpmi-cikon-mxmjk-pktzl-4h6em-wscyu-2dizk-mluud-xae:
     Amount: 37.96100000 ALEX
-    Reward ICP: 12402646
+    Reward ICP: 13243850
   mii24-jfmgd-hb5qx-z3zji-6vcpp-62tox-udazu-newqc-azuoz-6tcvb-2ae:
     Amount: 34708.42590000 ALEX
-    Reward ICP: 126032383
+    Reward ICP: 895171997
   jhuwg-u5odp-vczlt-hehyu-zkaht-ur3c7-qsjro-xjyad-5z7in-2n7cm-4ae:
     Amount: 17445.04260000 ALEX
-    Reward ICP: 654101928
+    Reward ICP: 302114336
   xo5ck-w5oot-gwotn-m6xzo-rgmrb-xk4on-y6mth-g3kd3-4rr67-lfuti-eqe:
     Amount: 1826.68110000 ALEX
-    Reward ICP: 24952563
+    Reward ICP: 65431850
   7t5kz-f5oql-abtsf-ihe6s-qgy3o-tdu5s-rzzcj-gp5md-24hqp-5bxdj-lqe:
     Amount: 102.36360000 ALEX
-    Reward ICP: 19208195
+    Reward ICP: 21476563
   x3fns-yvpnd-myf46-co3qr-gqmdz-lgrhk-6ndpf-ae354-ivms7-csrn2-qqe:
     Amount: 43.91320000 ALEX
-    Reward ICP: 4752975
+    Reward ICP: 5726082
   ibskx-wvqj7-snbtn-yf6vi-fzmvy-xnsnp-oj4lk-cujp2-3f54w-onf5a-nae:
-    Amount: 429.79300000 ALEX
-    Reward ICP: 154498570
+    Amount: 893.61530000 ALEX
+    Reward ICP: 173388954
   g4y5h-i5qpu-rj5ia-yu3iq-t46jh-esyx5-tgxk6-guuh4-qoaax-n4jgq-sae:
     Amount: 2194.15480000 ALEX
-    Reward ICP: 352237272
+    Reward ICP: 400859787
   6nuw4-u5tzu-c4qyd-jd7vs-osntr-enjm6-mvni2-dnug7-ydzth-jldl2-rae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   bmdfm-snu5g-rla5r-si243-mhpo6-xxafu-k6g4y-g727c-ybap6-zlo44-sae:
     Amount: 2126.01730000 ALEX
-    Reward ICP: 17154581
+    Reward ICP: 64267168
   iwrwt-7fv6m-4ifmp-hrst7-t26uq-ktbzq-hqjpv-rmdmx-2mbgs-7xi3r-mqe:
-    Amount: 4002.16280000 ALEX
-    Reward ICP: 38963648
+    Amount: 4712.94470000 ALEX
+    Reward ICP: 136043425
   44ivl-4fwhp-kjnce-jwtlx-nemv4-57qp2-yvp6i-kchdy-zltbw-bgmr4-wqe:
     Amount: 10861.09950000 ALEX
-    Reward ICP: 68090366
+    Reward ICP: 80515609
   6xjfi-mn2px-khlt7-awgh3-btzxo-6c3kb-4kupt-uchdd-4nbsy-5k2m5-zqe:
     Amount: 83.64140000 ALEX
-    Reward ICP: 8251217
+    Reward ICP: 10104697
   yuwir-kv3hn-uo2xo-hgxlf-z7uq5-wm6qk-ytjm3-2ft3u-d3442-7ajxt-nae:
     Amount: 91.00840000 ALEX
-    Reward ICP: 9747349
+    Reward ICP: 11764082
   ufxrf-gn57p-fahsk-opado-agqrf-dzwoj-unufu-ve4w6-ixeus-icebx-uqe:
     Amount: 65.36550000 ALEX
-    Reward ICP: 7112809
+    Reward ICP: 8561298
   vg73m-a56hd-4p6ls-jfemc-hbea2-dxjfu-ag265-vp5xa-ugm7h-xwhyu-7ae:
     Amount: 51049.99960000 ALEX
-    Reward ICP: 27145223764
+    Reward ICP: 28276493082
   rum2t-hn7zx-nggxj-tmqdf-labpz-5rw2f-pk66l-ssiuo-5p3tp-vrtpt-tqe:
     Amount: 67.32020000 ALEX
-    Reward ICP: 6190211
+    Reward ICP: 7682018
   kyvdn-a57zy-mdogp-d2etq-fb7z7-yb45v-exoct-dbfl3-ylam6-etq3r-dqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   xif5r-56b3u-vuqvt-v2owg-hvqhp-wsbmu-cfcgj-yxg2k-znm4u-3gqvp-mqe:
     Amount: 2.15580000 ALEX
-    Reward ICP: 1017458
+    Reward ICP: 1065216
   pmelv-vochn-3qahp-tx5py-mvuwx-btrgv-724r2-hx7yp-bixit-oaskf-3ae:
     Amount: 0.00000000 ALEX
-    Reward ICP: 31765016
+    Reward ICP: 0
   2lltj-5ogcx-ynodf-hmidq-2enrj-32tkl-dx6ta-go52j-qb7fi-wkio7-eae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   35ec5-pwhhd-x5f5c-pd3t3-y2oec-bs2a2-lztav-joc3b-4uhkw-5mbgu-cqe:
     Amount: 60410.90610000 ALEX
-    Reward ICP: 6538678286
+    Reward ICP: 294289129
   x6yaw-swizz-owuk6-ozbor-7xazl-kimgb-pylt4-p6obl-vsvkf-a6wfp-mqe:
     Amount: 99.99960000 ALEX
-    Reward ICP: 64810489
+    Reward ICP: 67026469
   6nwgj-zojfx-vbdqj-ogqv6-pjluy-3gul3-jhldt-3bync-w6aa7-2b34j-jae:
     Amount: 270.02780000 ALEX
-    Reward ICP: 55101353
+    Reward ICP: 61085164
   tdilh-posfw-g43oa-dsxrm-gn6yl-ere36-kowqp-p6kxe-ndtkw-gkexb-yae:
     Amount: 1131.16010000 ALEX
-    Reward ICP: 314699027
+    Reward ICP: 339765551
   b6dks-xotaq-utmmp-rjhmy-7cd4h-b2ucx-52d2n-lhoqt-gpgea-ho6lg-bqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   bdira-wot5e-lnfcr-z76hc-q4qc6-wkgrc-smrli-nnkdd-26e7j-r4s4b-pqe:
-    Amount: 3410.84760000 ALEX
-    Reward ICP: 99865591
+    Amount: 1000.84720000 ALEX
+    Reward ICP: 5191888
   nv3bv-o6wxt-6wfcd-m2nvm-72bpj-cw6o2-gwexv-xdfaq-laqg4-2mlbn-iae:
     Amount: 10.14770000 ALEX
-    Reward ICP: 3517719
+    Reward ICP: 3742579
   5hydi-doxtn-oiby3-64fwy-qwhct-2lqvy-5apbh-4ia6p-m5ivz-grl5c-iqe:
     Amount: 890.62420000 ALEX
-    Reward ICP: 579645876
+    Reward ICP: 599382117
   fhij7-igydb-zpo2p-tjrc7-zvraw-pezz4-lxeyw-t7tes-aisvg-jw2ii-7ae:
     Amount: 750.71950000 ALEX
-    Reward ICP: 243505101
+    Reward ICP: 260141051
   umetg-c6yrj-uyf2y-tvlxl-5dhec-wqojv-m74r7-tdjrr-ttyxv-tcdnl-bqe:
     Amount: 1575.50240000 ALEX
-    Reward ICP: 73816374
+    Reward ICP: 108729535
   2fbsn-o6yuw-olfgg-5utft-evmez-uuksb-npu6w-eo6ev-hqiz3-of5jh-sae:
     Amount: 27.10360000 ALEX
-    Reward ICP: 1014480
+    Reward ICP: 1615083
   n3fuj-rgy5p-2k5nx-zxd5a-dv6dz-2rdt5-pus4n-4owgo-smr6l-eooor-iae:
     Amount: 8030.87910000 ALEX
-    Reward ICP: 3508538531
+    Reward ICP: 3686503009
+  i7svo-6wzh2-ekgi5-ybkdy-dlqrm-ob4mp-fczwt-ycs7q-rtfcn-ezwol-sqe:
+    Amount: 206.99870000 ALEX
+    Reward ICP: 1534521
   fsmng-yozib-upjiv-dvxcz-myamk-2entu-hkurx-td7tz-7mpce-gi7uk-nae:
     Amount: 2000.06790000 ALEX
-    Reward ICP: 3818931
+    Reward ICP: 48140476
   ivd7r-cw2ff-frqsc-rzkch-gg33l-6hn34-hcyry-ktac6-6t53c-gu73v-pae:
     Amount: 3074.11980000 ALEX
-    Reward ICP: 3087704
+    Reward ICP: 14975439
   infwy-kw23h-awt7p-nybmw-2rzos-ouyuh-5vloy-amkgi-4fktb-7fyqr-iae:
     Amount: 11535.59750000 ALEX
-    Reward ICP: 721972002
+    Reward ICP: 105657665
+  lzq6u-ow37p-a2e2r-nqlgf-gxqxe-sbq6a-fzhro-z3ken-mlbfe-7ivmo-kae:
+    Amount: 181.41150000 ALEX
+    Reward ICP: 1504565
   zxbae-zw5z4-y2roy-fg4ow-bg6ov-lh2my-ubpdn-mbdlk-xxqmi-wultv-hae:
-    Amount: 3812.54860000 ALEX
-    Reward ICP: 186183731
+    Amount: 3852.30530000 ALEX
+    Reward ICP: 42050980
   ldrua-n7djq-gmjjv-zap26-hcooj-htzhj-wfycv-2hp6c-b7mhu-z377q-oae:
-    Amount: 106.19670000 ALEX
-    Reward ICP: 4096062
+    Amount: 245.91420000 ALEX
+    Reward ICP: 3089403
   uqym6-zpekh-ebcgn-km56p-qpsaf-dcfi3-iguek-eo2je-7qoco-zmzt4-5ae:
     Amount: 2210.22580000 ALEX
-    Reward ICP: 123847918
+    Reward ICP: 16384866
   5fn2h-jpesc-bze2e-gj22e-xvxtc-kqpjm-hwlho-jnho4-bitlb-svwag-mqe:
     Amount: 1759.45600000 ALEX
-    Reward ICP: 714567902
+    Reward ICP: 753557483
   l3qy7-77ezq-shbdm-yfcx2-t2hfs-e437f-b67jn-ptv7p-kvwxj-siyda-2qe:
     Amount: 0.00000000 ALEX
     Reward ICP: 14777337
   rcqcc-3pf3s-v3xa6-543hx-zvito-wxufw-tfioh-oragx-zgli6-5exhl-kqe:
     Amount: 453.79660000 ALEX
-    Reward ICP: 72010043
+    Reward ICP: 82066176
   eygv6-v7gbx-msx42-7qbfm-qkd5w-4gsjn-monrk-ubggr-6b4jk-ozqrz-qqe:
     Amount: 1148.44820000 ALEX
-    Reward ICP: 6269185
+    Reward ICP: 31718818
   2ljyd-77i5g-ix222-szy7a-ru4cu-ns4j7-kxc2z-oazam-igx3u-uwee6-yqe:
     Amount: 160489.48080000 ALEX
-    Reward ICP: 1589057025
+    Reward ICP: 5145508109
   b22ol-nxj6k-ai4r2-ztuse-uguwt-oeqdf-3tyzz-pxbtv-o5fyo-t3z4a-oqe:
     Amount: 308.58280000 ALEX
-    Reward ICP: 13606572
+    Reward ICP: 20444765
   bkegu-xpmid-dtpso-22wjo-6zkgp-2eqw5-bbnkk-mjvxh-2pgsl-4h34a-wae:
     Amount: 15.91860000 ALEX
-    Reward ICP: 3363160
+    Reward ICP: 352743
   eqxnd-zho7f-idx4w-t742j-5anps-gzr6c-alfce-l7vhl-5b3n7-hc5c3-lae:
     Amount: 0.00000000 ALEX
     Reward ICP: 230617
   cin6n-lhr4e-poctw-b4e4c-r6xn2-mcjlh-d4apr-25y4i-amfn3-vflwz-aae:
-    Amount: 26089.36620000 ALEX
-    Reward ICP: 585516385
+    Amount: 29377.36580000 ALEX
+    Reward ICP: 580745349
   pkz43-u7slz-feoyb-rp3ph-jbik6-wz5mz-3gr2q-j7vxm-eryy7-yhewt-bae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   k5jpy-chv4i-jkbfk-vopft-q6gq3-mk5he-vtpjl-ru26l-oiyru-b2tyx-lae:
     Amount: 51.61150000 ALEX
-    Reward ICP: 142809
+    Reward ICP: 1286506
   ky6yc-dpwyy-vkp6t-jxw3e-ye732-iqubb-dje4p-p3y4s-r5qrs-7k4k2-wqe:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
@@ -516,20 +534,20 @@ Stakes:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   y5v7s-apzyb-doopq-rtnjc-te66v-ogmol-u3o2j-w35il-pemwq-4jsps-rae:
-    Amount: 43213.03300000 ALEX
-    Reward ICP: 5579350351
+    Amount: 48987.86510000 ALEX
+    Reward ICP: 348863859
   6xh47-3xzzm-7mgpe-3u2ae-bz7nv-hsyo6-bcyvm-5pvxy-pd2fz-67hhb-uae:
-    Amount: 6389.42460000 ALEX
-    Reward ICP: 6417659
+    Amount: 6741.91610000 ALEX
+    Reward ICP: 48057676
   zpitz-qp34x-ewbvk-ef53p-oef23-z3qxl-g4ck6-hqwlo-ji56s-bkg7h-cae:
     Amount: 14055.78310000 ALEX
-    Reward ICP: 232602429
+    Reward ICP: 230211355
   i6hch-e74rl-jn73t-7fcoq-ep4xh-aludw-kzbws-lnnun-bcpdm-dtkjl-eae:
     Amount: 1419.79570000 ALEX
-    Reward ICP: 65847940
+    Reward ICP: 97310637
   67kky-kh6dw-3nw7n-6idhc-exsr5-icfur-3kcvy-7jysn-f32x4-n7tqp-bae:
     Amount: 0.00000000 ALEX
     Reward ICP: 0
   aff6g-fh77d-25plr-fosac-kgbt6-scg6z-emrno-uxhiz-d52nm-m6fun-hqe:
     Amount: 332.64120000 ALEX
-    Reward ICP: 33865385
+    Reward ICP: 41236710
